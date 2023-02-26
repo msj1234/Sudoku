@@ -1,3 +1,7 @@
 To run this application: 
-must have pygames, and python installed 
-run GUI.py and play the game!
+SolverOriginal.py - solves a hardcoded sudoku board
+  to run: input the desired board (hard code it) and run!
+
+Solver.py and GUI.py - user interface where the user is able to attempt to solve a board
+  in order to run this, must have python and pygames installed 
+  to run: run GUI.py and play the game!
